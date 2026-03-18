@@ -20,7 +20,7 @@ Here, code is more than just text. It's the brush that draws graphics and the br
 * **[ft_printf](./ft_printf)** / **[get_next_line](./get_next_line)**: Unlocking the mysteries of variadic arguments, memory leaks, and file descriptors.
 
 ### ⚡ 2. Algorithms & Logic (Making the Machine Smart)
-* **[Push_swap](./Push_swap)**: Sorting a random stack of numbers using only two stacks and a highly limited set of instructions. **The Magic:** Pushing algorithm optimization to the absolute limit. Watching the instruction count drop is incredibly satisfying!
+* **[Push-swap](./Push-swap)**: Sorting a random stack of numbers using only two stacks and a highly limited set of instructions. **The Magic:** Pushing algorithm optimization to the absolute limit. Watching the instruction count drop is incredibly satisfying!
 
 ---
 
