@@ -22,6 +22,10 @@ Here, code is more than just text. It's the brush that draws graphics and the br
 ### ⚡ 2. Algorithms & Logic (Making the Machine Smart)
 * **[Push-swap](./Push-swap)**: Sorting a random stack of numbers using only two stacks and a highly limited set of instructions. **The Magic:** Pushing algorithm optimization to the absolute limit. Watching the instruction count drop is incredibly satisfying!
 
+🎨 3. Graphics & Vision (When Code Becomes Art):
+
+* **[so_long](./so_long)**: Crafting a 2D top-down game from scratch using the MiniLibX library. This project involved map parsing, sprite rendering, and handling real-time user input. The Magic: Transforming a static .ber text file into an interactive world. Implementing the Flood Fill algorithm to ensure every collectible is reachable felt like giving the computer "eyes" to validate my level design before the first frame even rendered.
+
 ---
 
 ## 🛠️ My Tech Arsenal
